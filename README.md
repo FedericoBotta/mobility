@@ -8,7 +8,20 @@ For this specific tutorial, we will use a tool called Jupyter Notebook, which is
 
 https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
-When you open the notebook for this tutorial, you will see that there is some text explaining some of the steps, and you will also see some code
+Jupyter notebooks are divided in cells, which are containers of either text to display or code to run.
+
+When you open the notebook for this tutorial, you will see that some cells already contain text, and some others contain code.
+
+For instance, a text cell looks like this:
+
+<img width="895" alt="Screenshot 2024-05-30 at 16 08 35" src="https://github.com/FedericoBotta/mobility/assets/29568541/c4a90242-a9a2-4e4e-88c7-6c36aa827bbc">
+
+And a code cell looks like this:
+
+<img width="983" alt="Screenshot 2024-05-30 at 16 08 55" src="https://github.com/FedericoBotta/mobility/assets/29568541/2ee55e3e-2a9a-4af9-b686-0c56c43cc033">
+
+You can run code in a 'code cell' by clicking on that cell, and then pressing Ctrl+Enter (or ⌘+Enter on an Apple device).
+The
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FedericoBotta/mobility/HEAD?labpath=mobility%2FMobility_tutorial.ipynb)
