@@ -32,8 +32,20 @@ And a code cell looks like this:
   </tr>
 </table>
 
-You can run code in a 'code cell' by clicking on that cell, and then pressing Ctrl+Enter (or ⌘+Enter on an Apple device).
-The
+You can run the code in a 'code cell' by clicking on that cell, and then pressing Ctrl+Enter (or ⌘+Enter on an Apple device). The code may take a little while to run, so it may look like nothing is happening. When the code in one cell is running, the cell number next to the cell will display an asterisk (*), as you can see here:
 
+<table>
+  <tr>
+    <td style="border: 4px solid black;">
+![Untitled](https://github.com/FedericoBotta/mobility/assets/29568541/243d65bc-9e44-4557-afec-f4d5a44fe6a1)
+  </td>
+  </tr>
+</table>
+
+So that you can tell if the code is still running; once the code has finished, the asterisk will turn into a number (which represents the order in which cells have been run).
+
+Finally, you can get started with this tutorial by pressing the 'Binder' button below. This will open a new page (note, this may take a while to load) which will contain the Jupyter notebook for this tutorial. You can use this notebook as if it was your own: you can edit the code (or anything else), run different cells, and generally play with the notebook without anyone else seeing what you are doing (if you are interested in how this was done, you can read more about Binder here https://mybinder.org).
+
+Now go ahead and have fun!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FedericoBotta/mobility/HEAD?labpath=mobility%2FMobility_tutorial.ipynb)
