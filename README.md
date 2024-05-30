@@ -14,13 +14,19 @@ When you open the notebook for this tutorial, you will see that some cells alrea
 
 For instance, a text cell looks like this:
 
+<table>
+  <tr>
+    <td style="border: 4px solid black;">
 <img width="895" alt="Screenshot 2024-05-30 at 16 08 35" src="https://github.com/FedericoBotta/mobility/assets/29568541/c4a90242-a9a2-4e4e-88c7-6c36aa827bbc">
+  </td>
+  </tr>
+</table>
 
 And a code cell looks like this:
 
 <table>
   <tr>
-    <td style="border: 2px solid black;">
+    <td style="border: 4px solid black;">
 <img width="983" alt="Screenshot 2024-05-30 at 16 08 55" src="https://github.com/FedericoBotta/mobility/assets/29568541/2ee55e3e-2a9a-4af9-b686-0c56c43cc033">
   </td>
   </tr>
