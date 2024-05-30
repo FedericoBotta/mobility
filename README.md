@@ -18,7 +18,9 @@ For instance, a text cell looks like this:
 
 And a code cell looks like this:
 
+<div style="border: 2px solid black; display: inline-block;">
 <img width="983" alt="Screenshot 2024-05-30 at 16 08 55" src="https://github.com/FedericoBotta/mobility/assets/29568541/2ee55e3e-2a9a-4af9-b686-0c56c43cc033">
+</div>
 
 You can run code in a 'code cell' by clicking on that cell, and then pressing Ctrl+Enter (or ⌘+Enter on an Apple device).
 The
