@@ -37,7 +37,7 @@ You can run the code in a 'code cell' by clicking on that cell, and then pressin
 <table>
   <tr>
     <td style="border: 4px solid black;">
-![Untitled](https://github.com/FedericoBotta/mobility/assets/29568541/243d65bc-9e44-4557-afec-f4d5a44fe6a1)
+      <img width="1399" alt="Screenshot 2024-05-30 at 16 36 31" src="https://github.com/FedericoBotta/mobility/assets/29568541/0273791e-442e-41a3-b94f-9fc592fe0398">
   </td>
   </tr>
 </table>
