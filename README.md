@@ -51,4 +51,4 @@ Finally, you can get started with this tutorial by pressing the ‘launch:binder
 Now go ahead and have fun!
 
 <a href="https://mybinder.org/v2/gh/FedericoBotta/mobility/HEAD?labpath=mobility%2FMobility_tutorial.ipynb" target="_blank">
-<img src=![Binder](https://mybinder.org/badge_logo.svg) style="width: 150px; height: 50px;"></a>
+<img src="https://mybinder.org/badge_logo.svg" style="width: 150px; height: 50px;"></a>
