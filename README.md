@@ -4,11 +4,11 @@ This tutorial will use the Python programming language. Don't worry if you've ne
 
 For background reference, here you can find an informative cheat sheet with an introduction to some of the basic syntax and most useful introductory features of Python:
 
-[Python cheat sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
+<a href="https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet" target="blank> Python cheat sheet</a>
 
 For this specific tutorial, we will use a tool called Jupyter Notebook, which is a common data science tool for doing analysis and presenting the results in one place! Jupyter notebooks allow you to write and run code, create plots, and write up any text all in the same document. It can be extremely powerful and a great tool to become familiar with. For a detailed introduction to Jupyter Notebook, you can have a look here:
 
-[Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+<a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/" target="blank">Jupyter notebook tutorial</a>
 
 Jupyter notebooks are divided in cells, which are containers of either text to display or code to run.
 
